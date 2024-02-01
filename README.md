@@ -1,2 +1,2 @@
 # SantoStudy
-Japanese vocabulary studying app made in Unity (One Piece themed)
+Japanese vocabulary studying app made in Unity for Android (One Piece themed)
